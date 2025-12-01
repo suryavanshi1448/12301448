@@ -30,7 +30,7 @@ Three regression models were implemented: Linear Regression, Random Forest, and 
 - `xgb_model.pkl`  
 
 ## How to Run
-1. Place the dataset (car_cleaned_50k.csv) inside `data/`.  
+1. Place the dataset (cardekho_style_cars_50k.csv) inside `data/`.  
 2. Open `final12301448.ipynb` in Google Colab.  
 3. Run all cells to train models and generate outputs.
 
